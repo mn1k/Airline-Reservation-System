@@ -1,11 +1,11 @@
 # Airline-Reservation-System
 
-This web application allows users to search for flights, make bookings, and manage reservation.
+This web application allows users to search for flights, make bookings, and manage reservation. The repository streamlines the flight booking process by providing a user-friendly interface for travelers.
 
 ## Features
 
 - User Registration and Login system.
-- Search for flights based on source, destination, and date.
+- Search for flights based on source, destination, and departure date.
 - Book flights for various passenger types: regular, student, senior citizen, and armed forces.
 - Admin panel for managing flights, routes and schedules.
 
@@ -18,6 +18,16 @@ This web application allows users to search for flights, make bookings, and mana
 - Bootstrap
 
 ## Screenshots
+
+### Home Page
+![Demo Output for home page](demo-imgs/home.png)
+
+### Search Page
+![Demo Output for search page](demo-imgs/search.png)
+
+
+### Payment Page
+![Demo Output for booking page](demo-imgs/booking.png)
 
 ## Getting Started
 
@@ -53,5 +63,3 @@ This web application allows users to search for flights, make bookings, and mana
 
 - Register as a user or login if you already have an account.
 - Search for flights, make bookings, and manage reservations.
-- Choose the desired flight and passenger type.
-- Make bookings and manage your reservations.
