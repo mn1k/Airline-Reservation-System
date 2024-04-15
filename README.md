@@ -48,10 +48,10 @@ This web application allows users to search for flights, make bookings, and mana
 4. Configure Database Credentials:
    - In `main.py`, update the database connection details with your PostgreSQL credentials.
 
-5, Install requirements:
-    ```
-    pip install -r requirements.txt
-    ```
+5. Install requirements:
+   ```
+   pip install -r requirements.txt
+   ```
 
 6. Run the application:
    ```
