@@ -1,4 +1,4 @@
-# Airline-Reservation-System
+# Airline Reservation System
 
 This web application allows users to search for flights, make bookings, and manage reservation. The repository streamlines the flight booking process by providing a user-friendly interface for travelers.
 
@@ -24,7 +24,6 @@ This web application allows users to search for flights, make bookings, and mana
 
 ### Search Page
 ![Demo Output for search page](demo-imgs/search.png)
-
 
 ### Payment Page
 ![Demo Output for booking page](demo-imgs/booking.png)
